@@ -1,0 +1,12 @@
+[submodule "pack/neovim/opt/nvim-lspconfig"]
+	path = pack/neovim/opt/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "pack/ui/opt/tree"]
+	path = pack/ui/opt/tree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/ui/opt/startify"]
+	path = pack/ui/opt/startify
+	url = https://github.com/mhinz/vim-startify
+[submodule "pack/ui/opt/zen"]
+	path = pack/ui/opt/zen
+	url = https://github.com/junegunn/goyo.vim
